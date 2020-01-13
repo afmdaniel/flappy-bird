@@ -1,0 +1,87 @@
+@font-face  {
+    font-family: 'Pixel';
+    src: url('../fonts/Pixel.ttf');
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/Oswald-Regular.ttf') format('truetype');
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Oswald;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    background-color: #0D262D;
+    color: #fff;
+    height: 100%;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100%;
+}
+
+[wm-flappy] {
+    box-sizing: content-box;
+    position: relative;
+    border: 5px solid green;
+    height: 500px;
+    width: 1000px;
+    margin: 15px;
+    background-color: dodgerblue;
+    overflow: hidden;
+}
+
+.passaro {
+    position: absolute;
+    width: 50px;
+    left: calc(50% - 25px);
+}
+
+.par-de-barreiras {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.barreira {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.barreira .borda {
+    height: 30px;
+    width: 130px;
+    background: linear-gradient(90deg, #639301, #A5E82E);
+    border: 2px solid #000;
+}
+
+.barreira .corpo {
+    width: 110px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    background: linear-gradient(90deg, #639301, #A5E82E);
+}
+
+.progresso {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-family: Pixel;
+    font-size: 70px;
+    z-index: 100;
+}
