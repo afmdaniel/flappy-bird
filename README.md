@@ -2,7 +2,7 @@
 
 A version of the flappy-bird game, developed in Javascript, CSS3 and HTML5.
 
-![gameplay](https://github.com/afmdaniel/flappy-bird/blob/master/imgs/gameplay1.png | width=100)
+![gameplay](https://github.com/afmdaniel/flappy-bird/blob/master/imgs/gameplay1.PNG)
 
 Project proposed by:
 
