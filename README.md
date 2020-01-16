@@ -2,14 +2,16 @@
 
 A version of the flappy-bird game, developed in Javascript, CSS3 and HTML5.
 
+![gameplay](https://github.com/afmdaniel/flappy-bird/blob/master/imgs/gameplay1.png)
+
 Project proposed by:
 
 [Curso de Desenvolvimento WEB com Javascript](https://www.udemy.com/course/curso-web/)
 
 ## How to play
 
-To play the game you need to clone or download this repository.
-Once you do that, open the 'flappy.html' in your browser. 
-
-
-![gameplay](https://github.com/afmdaniel/flappy-bird/blob/master/imgs/passaro.png)
+1. Clone or download this repository;
+2. Open the 'flappy.html' in your browser; 
+3. Hold any key to make the bird fly;
+4. Do your best and do not hit the pipes;
+5. Refresh the page to start again!
