@@ -2,7 +2,7 @@
 
 A version of the flappy-bird game, developed in Javascript, CSS3 and HTML5.
 
-![gameplay](https://github.com/afmdaniel/flappy-bird/blob/master/imgs/gameplay1.png)
+![gameplay](https://github.com/afmdaniel/flappy-bird/blob/master/imgs/gameplay1.png | width=100)
 
 Project proposed by:
 
@@ -12,6 +12,6 @@ Project proposed by:
 
 1. Clone or download this repository;
 2. Open the 'flappy.html' in your browser; 
-3. Hold any key to make the bird fly;
+3. Hold any key to make the bird flies;
 4. Do your best and do not hit the pipes;
 5. Refresh the page to start again!
