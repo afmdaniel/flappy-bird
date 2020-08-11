@@ -10,8 +10,7 @@ Project proposed by:
 
 ## How to play
 
-1. Clone or download this repository;
-2. Open the 'flappy.html' in your browser; 
-3. Hold any key to make the bird fly;
-4. Do your best and do not hit the pipes;
-5. Refresh the page to start again!
+1. [Click Here](my-flappy.surge.sh)
+2. Hold any key to make the bird fly;
+3. Do your best and do not hit the pipes;
+4. Refresh the page to start again!
