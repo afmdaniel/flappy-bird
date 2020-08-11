@@ -12,6 +12,6 @@ Project proposed by:
 
 1. Clone or download this repository;
 2. Open the 'flappy.html' in your browser; 
-3. Hold any key to make the bird flies;
+3. Hold any key to make the bird fly;
 4. Do your best and do not hit the pipes;
 5. Refresh the page to start again!
