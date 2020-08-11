@@ -10,7 +10,7 @@ Project proposed by:
 
 ## How to play
 
-1. [Click Here](my-flappy.surge.sh)
+1. [Click Here](http://my-flappy.surge.sh)
 2. Hold any key to make the bird fly;
 3. Do your best and do not hit the pipes;
 4. Refresh the page to start again!
